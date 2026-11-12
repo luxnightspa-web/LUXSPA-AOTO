@@ -1,0 +1,8 @@
+{
+  "name": "WonderTales XR - Kids Storybook",
+  "description": "An interactive spatial storybook for kids that reads magical tales aloud with Gemini TTS and generates fresh illustrations for every page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
